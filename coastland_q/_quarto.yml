@@ -1,5 +1,27 @@
 project:
-  title: "coastland_q"
+  type: website
+  output-dir: docs
+
+website:
+  sidebar:
+    style: "floating"
+    search: true
+    contents:
+      - section: "Home"
+        contents: 
+          - index.qmd
+      - section: "Science Summaries"
+        contents:
+          - id_juvenile_trout.qmd
+      - section: "More"
+        contents:
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
 
 editor: visual
 
