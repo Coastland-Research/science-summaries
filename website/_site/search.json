@@ -1,16 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About Coastland",
-    "section": "",
-    "text": "coming soon\n[general info here?]",
-    "crumbs": [
-      "Home",
-      "About Coastland"
-    ]
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -70,6 +59,17 @@
     "crumbs": [
       "Science Summaries",
       "Identifying anadromous and resident-origin rainbow trout juveniles"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "coming soon\n[general info here?]",
+    "crumbs": [
+      "Home",
+      "About"
     ]
   }
 ]
