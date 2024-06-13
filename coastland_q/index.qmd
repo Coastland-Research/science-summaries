@@ -1,7 +1,0 @@
----
-title: "About"
----
-
-coming soon
-
-\[general info here?\]
